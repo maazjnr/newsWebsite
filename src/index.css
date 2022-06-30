@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  color: #8db0a5;
+  color: #40675a;
+}
+
+.home{
+  background-color: rgb(32, 61, 63);
+}
+
+.newsLink {
+  text-decoration: none;
+  margin-bottom: -10px;
+  color: white;
+}
+
+.myImage {
+  width: 310px;
+  height: 300px;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  border: none;
+
+  object-fit: cover;
+}
+
+.location-icon{
+  color: #8db0a5;
+}
+
+.email-icon{
+  color: #8db0a5;
+}
+
+.email-link{
+  color: #8db0a5;
+  margin-top: 10px;
+}
+
+.instagram{
+  margin-bottom: 10px;
+  color:  #8db0a5;
+}
+
+.insta-icon{
+  color:  #8db0a5;
+}
+
+.footer{
+  width: 100%;
+  height: 10rem;
+  text-align: center;
+  padding: 0px 50px;
+  padding-bottom: 30px;
+  background-color: rgb(32, 61, 63);
+}
+
+.footer h6{
+  font-size: 12px;
+  margin-top: 10px;
+}
